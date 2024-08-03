@@ -43,5 +43,5 @@ Hi, my name is Karen Wang (aka CS Senpai). I graduated from Stanford with a BS/M
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/kywang-alumni/30min', text: 'Schedule a free consultation', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/kywang-alumni/consultation', text: 'Schedule a free consultation', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
 <!-- Calendly badge widget end -->
