@@ -18,15 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CS Senpai
+title: Writing Senpai
 # email: kywang@alumni.stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to CS Senpai! My tutoring service 
-  is designed for high school students who are eager to 
-  learn  coding and computer science in a fun and engaging way. 
-  Whether you're a beginner wanting to dive into the basics or an 
-  advanced learner aiming to refine your skills, CS Senpai is here 
-  to guide you on your educational journey.
+  Welcome to Writing Senpai! My tutoring service 
+  is designed for high school students who want to
+  learn how to improve their writing in fun and engaging ways. 
 baseurl: "/tutoring" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
