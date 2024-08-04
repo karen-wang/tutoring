@@ -1,6 +1,6 @@
 # Tutoring
 
-Tutoring website created with Github Pages and Jekyll.
+Website advertising tutoring services. Created with Github Pages and Jekyll.
 
 To run:
 ```
