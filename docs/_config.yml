@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: CS Senpai
-email: kywang@alumni.stanford.edu
+# email: kywang@alumni.stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to CS Senpai! My tutoring service 
   is designed for high school students who are eager to 
